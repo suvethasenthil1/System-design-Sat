@@ -1,0 +1,8 @@
+{
+  "name": "quick-commerce-round3-demo",
+  "version": "1.0.0",
+  "description": "Round 3 quick-commerce demo with Express API gateway, product search, inventory, cart, orders and delivery tracking",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "express": "^4.21.2" }
+}
